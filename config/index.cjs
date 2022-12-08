@@ -88,7 +88,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '小雪宝老婆',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oloWa5vPHDP7ch0fHdDBDrnTgFto',
+      id: 'oloWa5k5Kyp5l-pMH5nAttCp4aRs',
       // 自己oloWa5vPHDP7ch0fHdDBDrnTgFto
       // 宝oloWa5k5Kyp5l-pMH5nAttCp4aRs
       // 使用微信测试号：你想对他发送的模板消息的模板ID

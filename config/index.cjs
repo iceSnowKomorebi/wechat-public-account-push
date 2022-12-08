@@ -92,7 +92,7 @@ const USER_CONFIG = {
       // 自己oloWa5vPHDP7ch0fHdDBDrnTgFto
       // 宝oloWa5k5Kyp5l-pMH5nAttCp4aRs
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '8CkIVlCqojYzxxHMZcbJpaBCqROOi9CKo4G8CB47-jA',
+      useTemplateId: 'XSQrstmgBb8QPZU1LFUu20XUL2r4ybk3UKCHJocLHpk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-03',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
